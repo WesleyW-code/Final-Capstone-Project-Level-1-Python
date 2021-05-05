@@ -1,0 +1,12 @@
+admin, Register Users with taskManager.py, Use taskManager.py to add the usernames and passwords for all team members that will be using this program., 2021-04-19, 2021-04-24, Yes
+admin, Assign initial tasks, Use taskManager.py to assign each team member with appropriate tasks, 2021-04-15, 2021-04-19, Yes
+tim, Cooking meat, cook the meat on the fire, 2021-04-16, 2021-04-23, No
+tim, Run, Run fast, 2021-04-16, 2021-04-19, No
+jeff, jump, jump high, 2021-04-16, 2021-04-19, No
+tim, Swim, swim faster, 2021-04-16, 2021-04-19, No
+james, Row, row further, 2021-04-16, 2021-04-27, Yes
+arnold, climb, climb higher, 2021-04-16, 2021-04-25, No
+john, Sit, sit still, 2021-04-16, 2021-04-29, No
+arnold, Drive, drive longer, 2021-04-16, 2021-04-30, No
+james, make bread, bake bread, 2021-04-20, 2021-04-23, No
+tim, cook, cook something nice, 2021-04-22, 2021-04-24, No

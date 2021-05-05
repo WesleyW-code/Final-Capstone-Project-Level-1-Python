@@ -1,0 +1,46 @@
+#USER OVERVIEW REPORT#
+	Total users registered: 6
+	Total tasks: 12
+
+#OVERVIEW OF USERS#
+User: admin
+	Total tasks of user: 2
+	Percentage of tasks assigned to user: 16.67 % 
+	Percentage completed: 100.0 %
+	Percentage incomplete: 0.0 %
+	Percentage overdue: 0.0 %
+
+User: tim
+	Total tasks of user: 4
+	Percentage of tasks assigned to user: 33.33 % 
+	Percentage completed: 0.0 %
+	Percentage incomplete: 100.0 %
+	Percentage overdue: 50.0 %
+
+User: james
+	Total tasks of user: 2
+	Percentage of tasks assigned to user: 16.67 % 
+	Percentage completed: 50.0 %
+	Percentage incomplete: 50.0 %
+	Percentage overdue: 0.0 %
+
+User: arnold
+	Total tasks of user: 2
+	Percentage of tasks assigned to user: 16.67 % 
+	Percentage completed: 0.0 %
+	Percentage incomplete: 100.0 %
+	Percentage overdue: 0.0 %
+
+User: jeff
+	Total tasks of user: 1
+	Percentage of tasks assigned to user: 8.33 % 
+	Percentage completed: 0.0 %
+	Percentage incomplete: 100.0 %
+	Percentage overdue: 100.0 %
+
+User: john
+	Total tasks of user: 1
+	Percentage of tasks assigned to user: 8.33 % 
+	Percentage completed: 0.0 %
+	Percentage incomplete: 100.0 %
+	Percentage overdue: 0.0 %
