@@ -24,7 +24,7 @@ with open ("user.txt","r") as user_data:
     user_data = user_data.read()
     user_data = user_data.split("\n")
     
-initiate = False # Assigning default value to false to use in the following while loop.
+initiate = False # Assigning default value  to false to use in the following while loop.
 while initiate == False: # While loop will only run when the variable above is False.
     username = input("Please enter your username: ") # Asking the user to enter their username.
     password = input("Please enter your password: ") # Asking the user to enter their password.
